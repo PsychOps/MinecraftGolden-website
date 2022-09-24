@@ -103,3 +103,16 @@ body {
   background-attachment: fixed;  
   background-size: cover;
 }
+ .logo-psyop {
+  width: 10%;
+ }
+ .accordion-body
+ {  
+  background-color:#000;
+  color:gold
+ }
+
+ .bg-div
+ {
+  background-color:rgba(16, 23, 39, 0.63) ;
+ }
