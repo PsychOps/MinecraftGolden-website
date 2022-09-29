@@ -104,7 +104,8 @@ body {
   background-size: cover;
 }
  .logo-psyop {
-  width: 10%;
+  width: 7%;
+  height: 7%;
  }
  .accordion-body
  {  
@@ -119,4 +120,10 @@ body {
 .tek-contact
 {
 text-align: left;
+}
+body {
+background-image: url('https://media.discordapp.net/attachments/657171844994170894/995261769213808670/unknown.png');
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
 }
